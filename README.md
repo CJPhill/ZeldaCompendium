@@ -1,2 +1,0 @@
-# ZeldaCompendium
-Created with CodeSandbox
